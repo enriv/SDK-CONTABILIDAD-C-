@@ -31,8 +31,7 @@ namespace Medsi_Contpaqi.Helpers
         /// </summary>
         public static bool HayEmpresaActiva => EmpresaActiva != null;
 
-        public const string BaseUrl = "https://cmenonitatest.medsi.com.mx/api/menonita";
-        public static string TokenAPI = "b6cbdbcd1f695a94118094bed2560b60a19c2494e197ee803af191aba19f8623";
+       
         public static string Servidor = string.Empty;
         public static string Instancia = string.Empty;
         public static string usuario = string.Empty;
@@ -42,8 +41,7 @@ namespace Medsi_Contpaqi.Helpers
 
         public static void CambiarDataSourceInterno()
         {
-            //StrconexionInterna = "Data Source=" + Servidor + "\\" + Instancia + ";Initial Catalog=" + BD + ";user id=" + usuario + ";password=" + clave;
-            string cnstr = "data source=" + Servidor + "\\" + Instancia + ";initial catalog=dbPRECSOINCIDENCIAS;persist security info=True;user id=" + usuario + ";password=" + clave + ";MultipleActiveResultSets=True;Connection Timeout=1200;";
+            string cnstr = "data source=" + Servidor + "\\" + Instancia + ";initial catalog=;persist security info=True;user id=" + usuario + ";password=" + clave + ";MultipleActiveResultSets=True;Connection Timeout=1200;";
             System.Data.SqlClient.SqlConnectionStringBuilder scsb = new System.Data.SqlClient.SqlConnectionStringBuilder(cnstr);
             System.Data.Entity.Core.EntityClient.EntityConnectionStringBuilder ecb = new System.Data.Entity.Core.EntityClient.EntityConnectionStringBuilder();
             ecb.Metadata = "res://*/Modelo.ModeloControl.csdl|res://*/Modelo.ModeloControl.ssdl|res://*/Modelo.ModeloControl.msl";
@@ -55,7 +53,6 @@ namespace Medsi_Contpaqi.Helpers
 
         public static void CambiarDataSourceContpaq(string BD)
         {
-            //StrconexionInterna = "Data Source=" + Servidor + "\\" + Instancia + ";Initial Catalog=" + BD + ";user id=" + usuario + ";password=" + clave;
             string cnstr = "data source=" + Servidor + "\\" + Instancia + ";initial catalog=" + BD + ";persist security info=True;user id=" + usuario + ";password=" + clave + ";MultipleActiveResultSets=True;Connection Timeout=1200;";
             System.Data.SqlClient.SqlConnectionStringBuilder scsb = new System.Data.SqlClient.SqlConnectionStringBuilder(cnstr);
 
