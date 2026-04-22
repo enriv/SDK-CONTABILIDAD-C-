@@ -1,0 +1,15 @@
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\bin\Debug\Medsi-Contpaqi.exe.config
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\bin\Debug\Medsi-Contpaqi.exe
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\bin\Debug\Medsi-Contpaqi.pdb
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\bin\Debug\Interop.SDKCONTPAQNGLib.dll
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi-Contpaqi.csproj.AssemblyReference.cache
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Interop.SDKCONTPAQNGLib.dll
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi-Contpaqi.csproj.ResolveComReference.cache
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi_Contpaqi.Form1.resources
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi_Contpaqi.Properties.Resources.resources
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi-Contpaqi.csproj.GenerateResource.cache
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi-Contpaqi.csproj.CoreCompileInputs.cache
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi-Contpaqi.exe
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi-Contpaqi.pdb
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi-Contpaqi.exe.config
+D:\COMPUVENTAS\MENONITA HOSPITAL\Proyectos\Principal\Medsi-Contpaqi\Medsi-Contpaqi\obj\Debug\Medsi_Contpaqi.FormSeleccionEmpresa.resources

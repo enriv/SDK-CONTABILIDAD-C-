@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|d:\\compuventas\\menonita hospital\\proyectos\\principal\\medsi-contpaqi\\medsi-contpaqi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|solutionrelative:medsi-contpaqi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|d:\\compuventas\\menonita hospital\\proyectos\\principal\\medsi-contpaqi\\medsi-contpaqi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|solutionrelative:medsi-contpaqi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|d:\\compuventas\\menonita hospital\\proyectos\\principal\\medsi-contpaqi\\medsi-contpaqi\\formseleccionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|solutionrelative:medsi-contpaqi\\formseleccionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|d:\\compuventas\\menonita hospital\\proyectos\\principal\\medsi-contpaqi\\medsi-contpaqi\\formseleccionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|solutionrelative:medsi-contpaqi\\formseleccionempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|d:\\compuventas\\menonita hospital\\proyectos\\principal\\medsi-contpaqi\\medsi-contpaqi\\helpers\\apphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|solutionrelative:medsi-contpaqi\\helpers\\apphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|d:\\compuventas\\menonita hospital\\proyectos\\principal\\medsi-contpaqi\\medsi-contpaqi\\sdk\\clasesdkcontabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|solutionrelative:medsi-contpaqi\\sdk\\clasesdkcontabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|d:\\compuventas\\menonita hospital\\proyectos\\principal\\medsi-contpaqi\\medsi-contpaqi\\sdk\\empresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4C7FE7-0898-4987-BBD7-481A212AD04E}|Medsi-Contpaqi\\Medsi-Contpaqi.csproj|solutionrelative:medsi-contpaqi\\sdk\\empresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppHelper.cs",
+              "DocumentMoniker": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\Helpers\\AppHelper.cs",
+              "RelativeDocumentMoniker": "Medsi-Contpaqi\\Helpers\\AppHelper.cs",
+              "ToolTip": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\Helpers\\AppHelper.cs",
+              "RelativeToolTip": "Medsi-Contpaqi\\Helpers\\AppHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:12:55.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empresas.cs",
+              "DocumentMoniker": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\SDK\\Empresas.cs",
+              "RelativeDocumentMoniker": "Medsi-Contpaqi\\SDK\\Empresas.cs",
+              "ToolTip": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\SDK\\Empresas.cs",
+              "RelativeToolTip": "Medsi-Contpaqi\\SDK\\Empresas.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:54:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSeleccionEmpresa.cs",
+              "DocumentMoniker": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\FormSeleccionEmpresa.cs",
+              "RelativeDocumentMoniker": "Medsi-Contpaqi\\FormSeleccionEmpresa.cs",
+              "ToolTip": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\FormSeleccionEmpresa.cs",
+              "RelativeToolTip": "Medsi-Contpaqi\\FormSeleccionEmpresa.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:36:42.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSeleccionEmpresa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\FormSeleccionEmpresa.cs",
+              "RelativeDocumentMoniker": "Medsi-Contpaqi\\FormSeleccionEmpresa.cs",
+              "ToolTip": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\FormSeleccionEmpresa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Medsi-Contpaqi\\FormSeleccionEmpresa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:33:31.242Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaseSDKContabilidad.cs",
+              "DocumentMoniker": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\SDK\\ClaseSDKContabilidad.cs",
+              "RelativeDocumentMoniker": "Medsi-Contpaqi\\SDK\\ClaseSDKContabilidad.cs",
+              "ToolTip": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\SDK\\ClaseSDKContabilidad.cs",
+              "RelativeToolTip": "Medsi-Contpaqi\\SDK\\ClaseSDKContabilidad.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:25:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\Form1.cs",
+              "RelativeDocumentMoniker": "Medsi-Contpaqi\\Form1.cs",
+              "ToolTip": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\Form1.cs*",
+              "RelativeToolTip": "Medsi-Contpaqi\\Form1.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:24:13.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\Form1.cs",
+              "RelativeDocumentMoniker": "Medsi-Contpaqi\\Form1.cs",
+              "ToolTip": "D:\\COMPUVENTAS\\MENONITA HOSPITAL\\Proyectos\\Principal\\Medsi-Contpaqi\\Medsi-Contpaqi\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Medsi-Contpaqi\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:15:40.126Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
